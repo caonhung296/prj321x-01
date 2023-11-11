@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+*{
+	box-sizing: border-box;
+}
+/*
+main{
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+	background: #f1f1f1;
+	
+}
+
+header{
+	padding: 30px;
+	text-align: center;
+	background: white;
+}
+
+header{
+	font-size: 50px;
+	
+}
+
+.topnav{
+	overflow: hidden;
+	background-color: #333;
+}
+*/
+
+.left-body{
+	width: 75%;
+}
+
+.right-body{
+	width: 25%;
+}
